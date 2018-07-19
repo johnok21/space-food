@@ -1,0 +1,21 @@
+{
+  "name": "swagger",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "react": "16.4.1",
+    "react-bits": "^1.0.5",
+    "react-native": "0.56.0",
+    "react-native-banner-carousel": "^1.0.3",
+    "react-native-sentry": "^0.38.2",
+    "react-native-ui-kitten": "^3.0.1",
+    "src": "^1.1.2"
+  },
+  "devDependencies": {
+    "eslint-config-rallycoding": "^3.2.0"
+  }
+}
